@@ -1,0 +1,105 @@
+What is 2+2?
+3
+4
+5
+6
+2
+1
+Capital of France?
+Berlin
+Madrid
+Paris
+Rome
+3
+1
+Which language is used in this program?
+Python
+Java
+C++
+HTML
+3
+1
+What is the result of 5 * 3?
+8
+15
+10
+20
+2
+1
+Which of these is an operating system?
+Windows
+Google
+Intel
+Facebook
+1
+1
+What does CPU stand for?
+Central Processing Unit
+Computer Personal Unit
+Central Program Utility
+Control Processing User
+1
+2
+Which number is a prime number?
+4
+6
+9
+7
+4
+2
+What is the capital of Romania?
+Cluj
+Bucharest
+Timisoara
+Iasi
+2
+1
+Which symbol is used for comments in C++?
+//
+##
+<!-- -->
+**
+1
+2
+What is 10 divided by 2?
+2
+3
+5
+8
+3
+1
+Which data type is used for integers in C++?
+float
+char
+int
+double
+3
+1
+What is the result of 9 - 4?
+2
+3
+5
+6
+3
+1
+Which company created Windows?
+Apple
+Microsoft
+Google
+IBM
+2
+1
+What does RAM stand for?
+Random Access Memory
+Read Access Memory
+Run Accept Memory
+Rapid Action Machine
+1
+2
+Which keyword is used to define a class method return type in C++?
+function
+def
+void
+func
+3
+2
